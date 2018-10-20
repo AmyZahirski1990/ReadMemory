@@ -27,12 +27,18 @@
     <ClInclude Include="ReadMemo.h">
       <Filter>头文件</Filter>
     </ClInclude>
+    <ClInclude Include="CReadMemoDlg.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="stdafx.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
     <ClCompile Include="ReadMemo.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="CReadMemoDlg.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
   </ItemGroup>
